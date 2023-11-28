@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "13c5142593896578",
+        "id": "b18334ccf43c66d3",
         "type": "tabs",
         "children": [
           {
-            "id": "63c75336f600dbcb",
+            "id": "378d14be800fe7ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f93872d906818e2a",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +124,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "eb3caeca2cabaadc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -135,9 +152,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "63c75336f600dbcb",
-  "lastOpenFiles": []
+  "active": "378d14be800fe7ef",
+  "lastOpenFiles": [
+    "Planning/logs/3-27.md",
+    "Planning/GTD/Weekly Review.md",
+    "Planning/GTD/Waiting For.md",
+    "Planning/GTD/Someday Maybe.md",
+    "Planning/GTD/README.md",
+    "Planning/GTD/Projects.md",
+    "Planning/GTD/Next Actions.md",
+    "Planning/GTD/In.md",
+    "README.md",
+    "Planning/Journaling/3-27.md",
+    "Planning/Journaling",
+    "Notes/Topics/Systems Engineering/UML/Diagram Types.md",
+    "Planning/Life Planning/Goals/Fitness.md",
+    "Planning/Life Planning/LifePlanning.md",
+    "Planning/Life Planning/FSA Spending.md",
+    "Planning/logs",
+    "Planning/GTD",
+    "Notes/Topics/Time Management/4 One Minute Habits.md",
+    "Notes/Topics/Gradle/Version Catalogs (libs toml).md",
+    "Notes/Topics/Time Management",
+    "Notes/Time Management",
+    "Notes/Topics/Gradle/Multi Module Basics.md",
+    "Notes/Topics/TOML.md",
+    "Notes/Topics/Gradle",
+    "Notes/Topics/Android/Common Multi Modularization Patterns.md",
+    "Notes/Topics/Android/SDK Settings.md",
+    "Notes/Topics/Android/Vocab.md",
+    "Notes/Topics/Android/Upgrade Assistant.md",
+    "Planning/Personal Projects/Communeo/Database/Technical Details.md",
+    "Notes/Topics/Android/Gradle/Gradle.md",
+    "Notes/Topics/Android/Gradle",
+    "Notes/Topics/Android",
+    "Notes/Topics/Untitled.canvas",
+    "Notes/Topics/MongoDB/Usage.md",
+    "Projects/Spring Microservices Tutorial.md",
+    "Excalidraw",
+    "Projects/Untitled",
+    "Notes/Topics/Service Oriented Architecture/Kubernetes/Concepts/assets/Container_Evolution.svg",
+    "Notes/Classes/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/assets/Pasted image 20240217172453.png",
+    "Notes/Topics/Systems Engineering/MBSE/assets/MBSE-FourQuadrants.webp",
+    "Notes/Classes/Career/AWS Coursera/week1/shared_resp.png",
+    "Notes/Classes/Career/AWS Coursera/week1/avail_zones.png",
+    "Notes/Topics/Linux/symbolic_links.jpg",
+    "Learning/Economics/Khan Academy/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/assets/Pasted image 20240217172453.png",
+    "Pasted image 20240217173823.png",
+    "Pasted image 20240217172343.png"
+  ]
 }
