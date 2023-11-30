@@ -16,4 +16,6 @@
     - `PF_LOCAL`: See [Local](https://www.gnu.org/software/libc/manual/html_node/Local-Namespace.html) Namespaces
 - `bind` and `getsockname` use (abstract) `struct sockaddr` as parameter regardless of namespace, which you cast the argument to depending on which namespace you used
 
+# Interface Naming
+- 
    
