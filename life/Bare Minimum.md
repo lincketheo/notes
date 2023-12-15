@@ -1,0 +1,4 @@
+- Study Math for 15 Minutes
+- Leet Code for 15 Minutes
+- Study the bible for 15 Minutes
+- Read for 15 Minutes

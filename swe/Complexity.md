@@ -1,0 +1,1 @@
+UI Programming is complex but it _can be_. UI's are felt to perform better when they have better UX - so architecture is less important than design (that is, people are willing to sacrifice performance? maybe - think apple - ok performance, good ux) - Moral is everything is important and you need to pick and choose given your business requirements.
