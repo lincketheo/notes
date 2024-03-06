@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "swe/3rd Party Abstraction.md",
+                "file": "Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6ac486ce33504df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible/Bible.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af6dff6870b2beec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5250577e0ff5f3d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/History/The ENTIRE History of Human Civilizations/Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d1737ab7d00eceb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Economics/Macroeconomics/Unit 1/3. Comparative Advantage, and gains from trade/2. Comparative vs Absolute advantage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -69,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "right": {
     "id": "f93872d906818e2a",
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "swe/3rd Party Abstraction.md",
+                "file": "Learning/Economics/Macroeconomics/Unit 1/3. Comparative Advantage, and gains from trade/2. Comparative vs Absolute advantage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "swe/3rd Party Abstraction.md",
+                "file": "Learning/Economics/Macroeconomics/Unit 1/3. Comparative Advantage, and gains from trade/2. Comparative vs Absolute advantage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,15 +174,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "swe/3rd Party Abstraction.md"
+                "file": "Learning/Economics/Macroeconomics/Unit 1/3. Comparative Advantage, and gains from trade/2. Comparative vs Absolute advantage.md"
               }
             }
+          },
+          {
+            "id": "eb3caeca2cabaadc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -143,11 +201,49 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63c75336f600dbcb",
+  "active": "9d1737ab7d00eceb",
   "lastOpenFiles": [
-    "Ideas.md"
+    "Learning/Economics/Macroeconomics/Unit 1/3. Comparative Advantage, and gains from trade/1. Comparative advantage, specialization and gains from trade.md",
+    "Learning/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/5. PPC as a country's economy.md",
+    "Learning/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/4. PPCs for increasing, decreasing, and constant oc.md",
+    "Learning/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/3. Increasing Opportunity Cost.md",
+    "Learning/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/2. Opportunity Cost.md",
+    "Learning/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/1. Production Possibilities Curve.md",
+    "Learning/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/assets/Pasted image 20240217172453.png",
+    "Learning/Economics/Macroeconomics/Unit 1/1. Introduction to macroeconomics/Vocab.md",
+    "Learning/Economics/Macroeconomics/Unit 1/1. Introduction to macroeconomics/5. Command and Market Economies.md",
+    "Learning/Economics/Macroeconomics/Unit 1/1. Introduction to macroeconomics/4. Economic Models.md",
+    "Learning/Economics/Macroeconomics/Unit 1/1. Introduction to macroeconomics/3. Normative and Positive Statement.md",
+    "Learning/Economics/Macroeconomics/Unit 1/1. Introduction to macroeconomics/2. Scarcity.md",
+    "Learning/Economics/Macroeconomics/Unit 1/1. Introduction to macroeconomics/1. Introduction to economics.md",
+    "Learning/History/The ENTIRE History of Human Civilizations/Notes.md",
+    "Ideas.md",
+    "Learning/History/The ENTIRE History of Human Civilizations",
+    "life/Plan.md",
+    "Learning/Economics/Macroeconomics/Unit 1/3. Comparative Advantage, and gains from trade/2. Comparative vs Absolute advantage.md",
+    "Learning/Economics/Macroeconomics/Unit 1/3. Comparative Advantage, and gains from trade/2. Comparative vs Absolute advantage",
+    "Learning/Economics/Macroeconomics/Unit 1/3. Comparative Advantage, and gains from trade",
+    "Pasted image 20240217173823.png",
+    "Learning/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/assets",
+    "Pasted image 20240217172343.png",
+    "Goals.md",
+    "life/music.md",
+    "life/Main Life Morals.md",
+    "life/Goals.md",
+    "Learning/Life Skills/Personal Finance/What is the bare minimum I need to know to avoid ruining my life?.md",
+    "Learning/Life Skills/Social Media Literacy/Attention Economy.md",
+    "Learning/Life Skills/Personal Finance",
+    "Learning/Life Skills/Social Media Literacy/Unit 1",
+    "Learning/Life Skills/Social Media Literacy",
+    "Learning/Life Skills",
+    "Learning/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve",
+    "Learning/History/US History/Unit 1/1. Thinking Like a Historian/1. Thinking Like a Historian.md",
+    "Learning/Economics/Macroeconomics/Unit 1/1. Introduction to macroeconomics",
+    "Learning/History/US History/Unit 1/1. Thinking Like a Historian/4. Avoiding common mistakes in historical essays.md",
+    "Learning/History/US History/Unit 1/1. Thinking Like a Historian/3. How to read a document. Analyzing historical Text (Part 2).md"
   ]
 }
