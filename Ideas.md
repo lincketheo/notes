@@ -13,3 +13,8 @@
 9. Virtual Machine
 10. Regex engine
 11. Search Engine
+
+# Tech Ideas
+1. Note that closely resembles paper that you can sync to your device really quickly
+	1. Possible a pencil that tracks movement and machine learning
+	2. Actually probably easier than it seems if pencil is tracked really well in 3d space, pressure activates it?
