@@ -24,5 +24,20 @@ $ xmpy postprocess_single_tone_rx.py --data_root ./pband/716/240313_160853/test_
 $ xmpy postprocess_single_tone_rx.py --data_root ./pband/716/240314_122134/test_single_tone_rx/ -c ./cfg/pband.yml --xcvr 1 --chan 2 --verbose # 
 ```
 
+## Testing 
+```
+$ xmpy postprocess_single_tone_rx.py --data_root ./pband/716/testing/test_single_tone_rx/ -c ./cfg/pband.yml --xcvr 0 --chan 1 --verbose
+```
+
 TASK 2: Tar up the tests (over night) (blvatjl)
 - Do this at night on blvatjl
+
+# Tasks
+- Add boolean to run psa on each file or not
+- Turn it off and re run
+
+# Problem:
+- Runs psa.py on each file (takes a long time)
+- Disabled this by adding a boolean, but the next line depends on the std out of 
+
+[23][019][0-9]
