@@ -14,5 +14,9 @@ Quick things that need to be done - no processing. This "In" list can be in mult
 
 ***
 - Budget
-- Lunch
-- PBand think about what else needs to be done
+- Figure out why pband broke
+    - IPN RXA(2) last three frequencies missing
+    - Gain flatness RXA/B(2) missing
+    - SNR RXB(2) missing
+    - Scaling on TXA/B snr
+    - Attenuation RXA/B(1/2) scaling y axis -45 
