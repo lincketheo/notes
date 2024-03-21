@@ -15,3 +15,4 @@ Quick things that need to be done - no processing. This "In" list can be in mult
 ***
 - Budget
 - Write a javascript library for compute substring (similar to what you did in wicked hornet)
+- Get on the waiting list for Project IDX https://developers.google.com/idx
