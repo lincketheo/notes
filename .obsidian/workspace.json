@@ -8,67 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63c75336f600dbcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f6ac486ce33504df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/Bible.md",
+                "file": "Notes/Topics/Systems Engineering/UML/Diagram Types.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af6dff6870b2beec",
+            "id": "7771f62e00bbec4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5250577e0ff5f3d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/History/The ENTIRE History of Human Civilizations/Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d1737ab7d00eceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Economics/Macroeconomics/Unit 1/3. Comparative Advantage, and gains from trade/2. Comparative vs Absolute advantage.md",
+                "file": "Notes/Topics/Gradle/Version Catalogs (libs toml).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 200
   },
   "right": {
     "id": "f93872d906818e2a",
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Economics/Macroeconomics/Unit 1/3. Comparative Advantage, and gains from trade/2. Comparative vs Absolute advantage.md",
+                "file": "Notes/Topics/Gradle/Version Catalogs (libs toml).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Economics/Macroeconomics/Unit 1/3. Comparative Advantage, and gains from trade/2. Comparative vs Absolute advantage.md",
+                "file": "Notes/Topics/Gradle/Version Catalogs (libs toml).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Economics/Macroeconomics/Unit 1/3. Comparative Advantage, and gains from trade/2. Comparative vs Absolute advantage.md"
+                "file": "Notes/Topics/Gradle/Version Catalogs (libs toml).md"
               }
             }
           },
@@ -202,48 +166,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d1737ab7d00eceb",
+  "active": "7771f62e00bbec4d",
   "lastOpenFiles": [
-    "Learning/Economics/Macroeconomics/Unit 1/3. Comparative Advantage, and gains from trade/1. Comparative advantage, specialization and gains from trade.md",
-    "Learning/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/5. PPC as a country's economy.md",
-    "Learning/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/4. PPCs for increasing, decreasing, and constant oc.md",
-    "Learning/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/3. Increasing Opportunity Cost.md",
-    "Learning/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/2. Opportunity Cost.md",
-    "Learning/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/1. Production Possibilities Curve.md",
-    "Learning/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/assets/Pasted image 20240217172453.png",
-    "Learning/Economics/Macroeconomics/Unit 1/1. Introduction to macroeconomics/Vocab.md",
-    "Learning/Economics/Macroeconomics/Unit 1/1. Introduction to macroeconomics/5. Command and Market Economies.md",
-    "Learning/Economics/Macroeconomics/Unit 1/1. Introduction to macroeconomics/4. Economic Models.md",
-    "Learning/Economics/Macroeconomics/Unit 1/1. Introduction to macroeconomics/3. Normative and Positive Statement.md",
-    "Learning/Economics/Macroeconomics/Unit 1/1. Introduction to macroeconomics/2. Scarcity.md",
-    "Learning/Economics/Macroeconomics/Unit 1/1. Introduction to macroeconomics/1. Introduction to economics.md",
-    "Learning/History/The ENTIRE History of Human Civilizations/Notes.md",
-    "Ideas.md",
-    "Learning/History/The ENTIRE History of Human Civilizations",
-    "life/Plan.md",
-    "Learning/Economics/Macroeconomics/Unit 1/3. Comparative Advantage, and gains from trade/2. Comparative vs Absolute advantage.md",
-    "Learning/Economics/Macroeconomics/Unit 1/3. Comparative Advantage, and gains from trade/2. Comparative vs Absolute advantage",
-    "Learning/Economics/Macroeconomics/Unit 1/3. Comparative Advantage, and gains from trade",
+    "Notes/Topics/Gradle/Multi Module Basics.md",
+    "Notes/Topics/Gradle/Version Catalogs (libs toml).md",
+    "Notes/Topics/TOML.md",
+    "Notes/Topics/Gradle",
+    "Notes/Topics/Android/Common Multi Modularization Patterns.md",
+    "Notes/Topics/Android/SDK Settings.md",
+    "Notes/Topics/Android/Vocab.md",
+    "Notes/Topics/Android/Upgrade Assistant.md",
+    "Projects/Communeo/Database/Technical Details.md",
+    "Notes/Topics/Android/Gradle/Gradle.md",
+    "Notes/Topics/Android/Gradle",
+    "Notes/Topics/Android",
+    "Notes/Topics/Untitled.canvas",
+    "Notes/Topics/MongoDB/Usage.md",
+    "Projects/Spring Microservices Tutorial.md",
+    "Excalidraw/Drawing 2024-03-24 11.42.43.excalidraw.md",
+    "Excalidraw",
+    "Projects/Untitled",
+    "Notes/Topics/MongoDB/Directories.md",
+    "Notes/Topics/MongoDB/Install/Untitled.md",
+    "Notes/Topics/Brew/Tap.md",
+    "Notes/Topics/MongoDB/Install",
+    "Notes/Topics/MongoDB",
+    "Notes/Topics/Spring/Core Technologies/IOC Container.md",
+    "Notes/Topics/Brew",
+    "Notes/Topics/Spring/Overview.md",
+    "Notes/Topics/Spring/Core Technologies",
+    "Notes/Topics/Spring",
+    "Projects/Communeo/Database/ERD.md",
+    "GTD/In.md",
+    "Life Planning/LifePlanning.md",
+    "Life Planning/Goals/Fitness.md",
+    "Notes/Topics/Service Oriented Architecture/Kubernetes/minikube/Install.md",
+    "Notes/Topics/Service Oriented Architecture/Kubernetes/Install.md",
+    "Notes/Topics/Service Oriented Architecture/Kubernetes/Concepts/assets/Container_Evolution.svg",
+    "Notes/Topics/Service Oriented Architecture/Kubernetes/Concepts/Overview/Overview.md",
+    "Notes/Topics/Linux/Hypervisor.md",
+    "Notes/Topics/Systems Engineering/UML/Diagram Types.md",
+    "Notes/Classes/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/assets/Pasted image 20240217172453.png",
+    "Notes/Topics/Systems Engineering/MBSE/assets/MBSE-FourQuadrants.webp",
+    "Notes/Classes/Career/AWS Coursera/week1/shared_resp.png",
+    "Notes/Classes/Career/AWS Coursera/week1/avail_zones.png",
+    "Notes/Topics/Linux/symbolic_links.jpg",
+    "Learning/Economics/Khan Academy/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/assets/Pasted image 20240217172453.png",
     "Pasted image 20240217173823.png",
-    "Learning/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/assets",
-    "Pasted image 20240217172343.png",
-    "Goals.md",
-    "life/music.md",
-    "life/Main Life Morals.md",
-    "life/Goals.md",
-    "Learning/Life Skills/Personal Finance/What is the bare minimum I need to know to avoid ruining my life?.md",
-    "Learning/Life Skills/Social Media Literacy/Attention Economy.md",
-    "Learning/Life Skills/Personal Finance",
-    "Learning/Life Skills/Social Media Literacy/Unit 1",
-    "Learning/Life Skills/Social Media Literacy",
-    "Learning/Life Skills",
-    "Learning/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve",
-    "Learning/History/US History/Unit 1/1. Thinking Like a Historian/1. Thinking Like a Historian.md",
-    "Learning/Economics/Macroeconomics/Unit 1/1. Introduction to macroeconomics",
-    "Learning/History/US History/Unit 1/1. Thinking Like a Historian/4. Avoiding common mistakes in historical essays.md",
-    "Learning/History/US History/Unit 1/1. Thinking Like a Historian/3. How to read a document. Analyzing historical Text (Part 2).md"
+    "Pasted image 20240217172343.png"
   ]
 }
