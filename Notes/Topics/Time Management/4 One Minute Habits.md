@@ -1,0 +1,5 @@
+- Treat work like you're going to the cinema
+	- Turn off phone
+	- Ensure you're adequately ready (bathroom, food etc)
+	- Immerse yourself for 1-2 hours.
+- Batch Task before I start

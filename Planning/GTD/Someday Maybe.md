@@ -1,13 +1,3 @@
-# Someday Maybe
-
-## Description
-Things that you don't want to do right now but might want to do in the future
-
-Examples
-- Start a cult
-- Replace old picture on wall
-
-***
 - Build From Scratch [Ideas](https://github.com/codecrafters-io/build-your-own-x)
     1. SSL Handshake - client server
     2. Neural Network
