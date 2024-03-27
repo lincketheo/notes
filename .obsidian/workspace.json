@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/logs/3-27.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning/logs/3-27.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planning/logs/3-27.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planning/logs/3-27.md"
+                "file": "README.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "378d14be800fe7ef",
   "lastOpenFiles": [
+    "Planning/logs/3-27.md",
     "Planning/GTD/Weekly Review.md",
     "Planning/GTD/Waiting For.md",
     "Planning/GTD/Someday Maybe.md",
@@ -170,7 +171,6 @@
     "Planning/Journaling/3-27.md",
     "Planning/Journaling",
     "Notes/Topics/Systems Engineering/UML/Diagram Types.md",
-    "Planning/logs/3-27.md",
     "Planning/Life Planning/Goals/Fitness.md",
     "Planning/Life Planning/LifePlanning.md",
     "Planning/Life Planning/FSA Spending.md",
