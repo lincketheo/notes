@@ -13,7 +13,7 @@ Logs are a way to spitball my sessions/life. They are meant to be _highly unorga
 Generally, these notes aren't meant to change, but (unless the system changes) it's ok if I find a scenario to change them. I trust myself
 
 North Star:
-Good: Write _anything_ in the logs
+Good: Put _whatever you want in these logs_
 Better: Write detailed descriptions in logs - keep track of day to day life and detail structured notes
 Best: Time stamp each task I did - classify what categories each log fits under (In terms of this readme)
 

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "13c5142593896578",
+        "id": "b18334ccf43c66d3",
         "type": "tabs",
         "children": [
           {
-            "id": "f6ac486ce33504df",
+            "id": "378d14be800fe7ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Topics/Systems Engineering/UML/Diagram Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7771f62e00bbec4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Planning/logs/3-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Planning/logs/3-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Planning/logs/3-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Planning/logs/3-27.md"
               }
             }
           },
@@ -170,20 +157,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7771f62e00bbec4d",
+  "active": "378d14be800fe7ef",
   "lastOpenFiles": [
-    "Planning/logs/3-27.md",
+    "Planning/GTD/Weekly Review.md",
+    "Planning/GTD/Waiting For.md",
+    "Planning/GTD/Someday Maybe.md",
+    "Planning/GTD/README.md",
+    "Planning/GTD/Projects.md",
+    "Planning/GTD/Next Actions.md",
+    "Planning/GTD/In.md",
     "README.md",
+    "Planning/Journaling/3-27.md",
+    "Planning/Journaling",
+    "Notes/Topics/Systems Engineering/UML/Diagram Types.md",
+    "Planning/logs/3-27.md",
     "Planning/Life Planning/Goals/Fitness.md",
     "Planning/Life Planning/LifePlanning.md",
     "Planning/Life Planning/FSA Spending.md",
-    "Planning/GTD/README.md",
-    "Planning/GTD/Someday Maybe.md",
-    "Planning/GTD/Waiting For.md",
-    "Planning/GTD/In.md",
-    "Planning/GTD/Next Actions.md",
-    "Planning/GTD/Projects.md",
-    "Planning/GTD/Weekly Review.md",
     "Planning/logs",
     "Planning/GTD",
     "Notes/Topics/Time Management/4 One Minute Habits.md",
@@ -204,11 +194,8 @@
     "Notes/Topics/Untitled.canvas",
     "Notes/Topics/MongoDB/Usage.md",
     "Projects/Spring Microservices Tutorial.md",
-    "Excalidraw/Drawing 2024-03-24 11.42.43.excalidraw.md",
     "Excalidraw",
     "Projects/Untitled",
-    "Notes/Topics/MongoDB/Directories.md",
-    "Notes/Topics/MongoDB/Install",
     "Notes/Topics/Service Oriented Architecture/Kubernetes/Concepts/assets/Container_Evolution.svg",
     "Notes/Classes/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/assets/Pasted image 20240217172453.png",
     "Notes/Topics/Systems Engineering/MBSE/assets/MBSE-FourQuadrants.webp",
