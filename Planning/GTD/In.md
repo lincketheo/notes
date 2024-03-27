@@ -1,0 +1,3 @@
+- Budget
+- Write a javascript library for compute substring (similar to what you did in wicked hornet)
+- Get on the waiting list for Project IDX https://developers.google.com/idx

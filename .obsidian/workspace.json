@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Topics/Gradle/Version Catalogs (libs toml).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Topics/Gradle/Version Catalogs (libs toml).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Topics/Gradle/Version Catalogs (libs toml).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Topics/Gradle/Version Catalogs (libs toml).md"
+                "file": "README.md"
               }
             }
           },
@@ -172,15 +172,32 @@
   },
   "active": "7771f62e00bbec4d",
   "lastOpenFiles": [
-    "Notes/Topics/Gradle/Multi Module Basics.md",
+    "Planning/Life Planning/Goals/Fitness.md",
+    "Planning/Life Planning/LifePlanning.md",
+    "Planning/Life Planning/FSA Spending.md",
+    "Planning/GTD/README.md",
+    "Planning/GTD/Someday Maybe.md",
+    "Planning/GTD/Waiting For.md",
+    "Planning/GTD/In.md",
+    "Planning/GTD/Next Actions.md",
+    "Planning/GTD/Projects.md",
+    "Planning/GTD/Weekly Review.md",
+    "README.md",
+    "Planning/logs/3-27.md",
+    "Planning/logs",
+    "Planning/GTD",
+    "Notes/Topics/Time Management/4 One Minute Habits.md",
     "Notes/Topics/Gradle/Version Catalogs (libs toml).md",
+    "Notes/Topics/Time Management",
+    "Notes/Time Management",
+    "Notes/Topics/Gradle/Multi Module Basics.md",
     "Notes/Topics/TOML.md",
     "Notes/Topics/Gradle",
     "Notes/Topics/Android/Common Multi Modularization Patterns.md",
     "Notes/Topics/Android/SDK Settings.md",
     "Notes/Topics/Android/Vocab.md",
     "Notes/Topics/Android/Upgrade Assistant.md",
-    "Projects/Communeo/Database/Technical Details.md",
+    "Planning/Personal Projects/Communeo/Database/Technical Details.md",
     "Notes/Topics/Android/Gradle/Gradle.md",
     "Notes/Topics/Android/Gradle",
     "Notes/Topics/Android",
@@ -191,25 +208,8 @@
     "Excalidraw",
     "Projects/Untitled",
     "Notes/Topics/MongoDB/Directories.md",
-    "Notes/Topics/MongoDB/Install/Untitled.md",
-    "Notes/Topics/Brew/Tap.md",
     "Notes/Topics/MongoDB/Install",
-    "Notes/Topics/MongoDB",
-    "Notes/Topics/Spring/Core Technologies/IOC Container.md",
-    "Notes/Topics/Brew",
-    "Notes/Topics/Spring/Overview.md",
-    "Notes/Topics/Spring/Core Technologies",
-    "Notes/Topics/Spring",
-    "Projects/Communeo/Database/ERD.md",
-    "GTD/In.md",
-    "Life Planning/LifePlanning.md",
-    "Life Planning/Goals/Fitness.md",
-    "Notes/Topics/Service Oriented Architecture/Kubernetes/minikube/Install.md",
-    "Notes/Topics/Service Oriented Architecture/Kubernetes/Install.md",
     "Notes/Topics/Service Oriented Architecture/Kubernetes/Concepts/assets/Container_Evolution.svg",
-    "Notes/Topics/Service Oriented Architecture/Kubernetes/Concepts/Overview/Overview.md",
-    "Notes/Topics/Linux/Hypervisor.md",
-    "Notes/Topics/Systems Engineering/UML/Diagram Types.md",
     "Notes/Classes/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/assets/Pasted image 20240217172453.png",
     "Notes/Topics/Systems Engineering/MBSE/assets/MBSE-FourQuadrants.webp",
     "Notes/Classes/Career/AWS Coursera/week1/shared_resp.png",
