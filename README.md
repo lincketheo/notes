@@ -12,7 +12,7 @@ Logs are a way to spitball my sessions/life. They are meant to be _highly unorga
 - Unorganized thoughts - stream of ideas that I can parse through _if I want_ later on
 Generally, these notes aren't meant to change, but (unless the system changes) it's ok if I find a scenario to change them. I trust myself
 
-Find yourself repeating stuff in your logs that would help pulling into a change in your system? Pull it out? But not everything that repeats throughout logs needs to be pulled out - I want this system to be describable and not grow to point where it's unmangable.
+Find yourself repeating stuff in your logs that would help pulling into a change in your system? Pull it out? But not everything that repeats throughout logs needs to be pulled out - I want this system to be describable and not grow to point where it's unmanageable.
 
 North Star:
 Good: Put _whatever you want in these logs_
