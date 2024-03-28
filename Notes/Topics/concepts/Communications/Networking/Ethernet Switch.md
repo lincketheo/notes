@@ -1,0 +1,1 @@
+Connects devices with MAC address to a LAN
