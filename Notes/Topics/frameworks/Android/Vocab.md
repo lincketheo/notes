@@ -1,0 +1,17 @@
+## Build Process
+- APK or AAB for Applications
+- AAR or JDK for third party library code
+- Vocab
+	- Build Type
+		- Debug or Release
+	- Product Flavor
+		- Paid or Free
+	- Build Variant = Flavor + Type
+	- Dependencies
+	- Signing
+		- Automatically signs debug by default
+		- Doesn't sign release [see here](https://developer.android.com/studio/publish/app-signing)
+			- Requirement for play store
+	- Code + Resource Shrinking
+		- ProGuard, R8 etc.
+	- Multiple APK Support
