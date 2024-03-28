@@ -7,21 +7,30 @@
         - Can I read the entire state of the system in a single READ call 
         - Compare runtime with compile time
         - Without the need for UI Admin consoles or interactive platforms (e.g. is there an api provided?)
-2. System Modifiability
+2. System Modifiability **
     - How much of the state of the system can I CREATE / UPDATE during runtime and compile time
     - Same as (1), but for modifying
 3. Open Standards
     - A SM with a standard config file / description language would allow an application like ours flexibility to move around in the future
+    - Pro: more people can use
+
+- Sidecar offloads security 
+- Registry:
+    - Service Registry
+    - Connection registry - route restrictions
 
 
 ## Requirements not as important (in no particular order)
 1. Usability and developer experience
+    - Idea:
+        - Use NATs then zeromq as pub sub back end
 2. Third party dependencies:
     - Envoy?
     - Containerization tooling:
         - Docker
         - Kubernetes
 3. Ecosystem:
+    - Must be kubernetes
     - AWS
     - EKS
     - Red Hat Open Shift
