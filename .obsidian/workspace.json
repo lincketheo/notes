@@ -11,11 +11,9 @@
             "id": "378d14be800fe7ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/Topics/RFCs/RSA/RB 2024-03-28 08.02.41.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Topics/RFCs/RSA/RB 2024-03-28 08.02.41.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Topics/RFCs/RSA/RB 2024-03-28 08.02.41.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notes/Topics/RFCs/RSA/RB 2024-03-28 08.02.41.pdf"
               }
             }
           },
@@ -159,51 +157,51 @@
   },
   "active": "378d14be800fe7ef",
   "lastOpenFiles": [
-    "Planning/logs/3-27.md",
-    "Planning/GTD/Weekly Review.md",
-    "Planning/GTD/Waiting For.md",
-    "Planning/GTD/Someday Maybe.md",
-    "Planning/GTD/README.md",
-    "Planning/GTD/Projects.md",
-    "Planning/GTD/Next Actions.md",
-    "Planning/GTD/In.md",
+    "Notes/Topics/languages/C++/Templates/Organizing.md",
+    "Notes/Topics/RFCs/RSA/RB 2024-03-28 08.02.41.pdf",
+    "Notes/Topics/RFCs/RSA",
+    "Notes/Topics/RFCs",
     "README.md",
-    "Planning/Journaling/3-27.md",
-    "Planning/Journaling",
-    "Notes/Topics/Systems Engineering/UML/Diagram Types.md",
-    "Planning/Life Planning/Goals/Fitness.md",
-    "Planning/Life Planning/LifePlanning.md",
-    "Planning/Life Planning/FSA Spending.md",
-    "Planning/logs",
-    "Planning/GTD",
-    "Notes/Topics/Time Management/4 One Minute Habits.md",
-    "Notes/Topics/Gradle/Version Catalogs (libs toml).md",
-    "Notes/Topics/Time Management",
-    "Notes/Time Management",
-    "Notes/Topics/Gradle/Multi Module Basics.md",
-    "Notes/Topics/TOML.md",
-    "Notes/Topics/Gradle",
-    "Notes/Topics/Android/Common Multi Modularization Patterns.md",
-    "Notes/Topics/Android/SDK Settings.md",
-    "Notes/Topics/Android/Vocab.md",
-    "Notes/Topics/Android/Upgrade Assistant.md",
-    "Planning/Personal Projects/Communeo/Database/Technical Details.md",
-    "Notes/Topics/Android/Gradle/Gradle.md",
-    "Notes/Topics/Android/Gradle",
-    "Notes/Topics/Android",
+    "Notes/Topics/tools/Gradle/Version Catalogs (libs toml).md",
+    "Notes/Topics/tools/Brew/Tap.md",
+    "Notes/Topics/tools/Gradle",
+    "Notes/Topics/tools/Brew",
+    "Notes/Topics/tools",
+    "Notes/Topics/languages/Java Kotlin/Times.md",
+    "Notes/Topics/languages/C++/Templates",
+    "Notes/Topics/languages/TOML.md",
+    "Notes/Topics/languages/Java Kotlin",
+    "Notes/Topics/languages/C++",
+    "Notes/Topics/languages",
+    "Notes/Topics/frameworks/Spring/Core Technologies/IOC Container.md",
+    "Notes/Topics/frameworks/Spring/Overview.md",
+    "Notes/Topics/frameworks/MongoDB/Usage.md",
+    "Notes/Topics/frameworks/MongoDB/Directories.md",
+    "Notes/Topics/frameworks/Linux/symbolic_links.jpg",
+    "Notes/Topics/frameworks/Linux/TLS.md",
+    "Notes/Topics/frameworks/Linux/Symbolic Links.md",
+    "Notes/Topics/frameworks/Linux/INode.md",
+    "Notes/Topics/frameworks/Linux/Hypervisor.md",
+    "Notes/Topics/frameworks/Linux/C Sockets.md",
+    "Notes/Topics/frameworks/Android/Vocab.md",
+    "Notes/Topics/frameworks/Android/Upgrade Assistant.md",
+    "Notes/Topics/frameworks/Android/SDK Settings.md",
+    "Notes/Topics/frameworks/Android/Common Multi Modularization Patterns.md",
+    "Notes/Topics/concepts/Systems Engineering/Service Oriented Architecture/Kubernetes/Concepts/assets/Container_Evolution.svg",
+    "Notes/Topics/concepts/Systems Engineering/Service Oriented Architecture/Kubernetes/Concepts/Overview/Overview.md",
+    "Notes/Topics/concepts/Systems Engineering/Service Oriented Architecture/Kubernetes/minikube/Install.md",
+    "Notes/Topics/concepts/Systems Engineering/Service Oriented Architecture/ISTO/Concepts/Traffic Management.md",
+    "Notes/Topics/concepts/Systems Engineering/Service Oriented Architecture/ISTO/Concepts/Security.md",
+    "Notes/Topics/concepts/Systems Engineering/Service Oriented Architecture/ISTO/Concepts/Observability.md",
+    "Notes/Topics/concepts/Systems Engineering/Service Oriented Architecture/ISTO/Concepts/Extensibility.md",
+    "Notes/Topics/concepts/Systems Engineering/MBSE/assets/MBSE-FourQuadrants.webp",
     "Notes/Topics/Untitled.canvas",
-    "Notes/Topics/MongoDB/Usage.md",
-    "Projects/Spring Microservices Tutorial.md",
-    "Excalidraw",
-    "Projects/Untitled",
     "Notes/Topics/Service Oriented Architecture/Kubernetes/Concepts/assets/Container_Evolution.svg",
     "Notes/Classes/Economics/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/assets/Pasted image 20240217172453.png",
     "Notes/Topics/Systems Engineering/MBSE/assets/MBSE-FourQuadrants.webp",
     "Notes/Classes/Career/AWS Coursera/week1/shared_resp.png",
     "Notes/Classes/Career/AWS Coursera/week1/avail_zones.png",
     "Notes/Topics/Linux/symbolic_links.jpg",
-    "Learning/Economics/Khan Academy/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/assets/Pasted image 20240217172453.png",
-    "Pasted image 20240217173823.png",
-    "Pasted image 20240217172343.png"
+    "Learning/Economics/Khan Academy/Macroeconomics/Unit 1/2. Opportunity cost and the production possibilities curve/assets/Pasted image 20240217172453.png"
   ]
 }
