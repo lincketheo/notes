@@ -90,4 +90,3 @@ Sources:
 
 # SysML
     - Syntax of MBSE
-# 
