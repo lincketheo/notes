@@ -46,16 +46,7 @@
     - Can operate multiple meshes from a single control plane
         - useful for high security that require segmentation and centralized control
     - Easy - bundled with polocies
-# Maesh *
-    - Lightweight and straightforward
-    - Traefik instead of Envoy (open source)
-    - No side car:
-        - Proxy endpoints for each node
-        - Non invasive - doesn't edit kubernetes objects
-    - Configurations:
-        - Annotations on user service objects
-        - Service Mesh Interface objects
-        - SMI = _good_
+
 # Service Comb Mesher
     - High performance service mesh in Go
     - Uses Go Chassis (go microservices framework)
