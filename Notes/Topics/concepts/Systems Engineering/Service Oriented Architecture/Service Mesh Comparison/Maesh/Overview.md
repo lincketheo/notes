@@ -16,3 +16,4 @@ https://doc.traefik.io/traefik/
 # Pros
     - Lightweight / easy to use 
     - Can be used with docker alone
+    - no 
