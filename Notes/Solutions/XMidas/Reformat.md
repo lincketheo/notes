@@ -1,0 +1,3 @@
+```
+$ reformat <input> <output> <format>
+```
