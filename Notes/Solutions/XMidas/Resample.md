@@ -1,0 +1,3 @@
+```
+newrate <input> <output>
+```
