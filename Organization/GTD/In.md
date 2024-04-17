@@ -1,4 +1,4 @@
 - Budget
 - Write a javascript library for compute substring (similar to what you did in wicked hornet)
 - Get on the waiting list for Project IDX https://developers.google.com/idx
-- Ask Adam for tips on how to organize multiple projects
+- Set up vim language completion server
