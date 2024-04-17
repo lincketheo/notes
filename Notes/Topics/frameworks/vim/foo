@@ -14,6 +14,8 @@ ctrl b/f - move page up and down
 
 C-i: opposite of C-o
 
+# Buffers Windows Tabs
+
 # Buffers
 - :bnext 
 - :bprevious 
@@ -21,6 +23,14 @@ C-i: opposite of C-o
 - :bdelete <buffer>
 - C-^ previous buffer
 - :wqall (all buffers)
+
+- :file <name> - Name a buffer
+- :ls
+    - \% current window buffer
+    - \# alternate buffer - (last file most recently edited)
+    - a active buffer
+    - h hidden buffer
+    - u unlisted buffer (not open by vim) ls!
 
 # Window
 A viewport within a buffer
