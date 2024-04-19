@@ -4,3 +4,4 @@
 - Set up vim language completion server
 - vim autocomplete
 - vim autosuggestions
+- figure out why nvim-tree ignores my files sometimes
