@@ -2,3 +2,6 @@
 - Write a javascript library for compute substring (similar to what you did in wicked hornet)
 - Get on the waiting list for Project IDX https://developers.google.com/idx
 - Set up vim language completion server
+- vim autocomplete
+- vim autosuggestions
+- figure out why nvim-tree ignores my files sometimes
