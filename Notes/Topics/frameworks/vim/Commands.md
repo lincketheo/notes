@@ -39,3 +39,7 @@ A viewport within a buffer
 - :tabprevious
 - :tablast
 - :tabfirst
+
+# Sessions
+- :mksession ~/<name>.vim
+- :source ~/<name>.vim
