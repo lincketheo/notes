@@ -5,3 +5,4 @@
 - vim autocomplete
 - vim autosuggestions
 - figure out why nvim-tree ignores my files sometimes
+- Apply to 10 good jobs
