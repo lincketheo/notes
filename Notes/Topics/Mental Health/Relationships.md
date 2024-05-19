@@ -1,2 +1,0 @@
-You can't cultivate 100 relationships at once. Texting Corey, Skylar, Ben / everybody with a heartfelt apology won't let you cultivate that relationship. Sometimes the best thing to do is to move on. 
-- Work on one relationship at a time

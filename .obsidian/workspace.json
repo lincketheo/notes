@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80e232e3d08591e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Topics/Mental Health/Relationships.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d2498a6b41003989",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,12 +157,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2498a6b41003989",
+  "active": "ad50cc6ecf2052c3",
   "lastOpenFiles": [
+    "tags.temp.tmp",
     "tags.temp",
     "tags.lock",
     "Observations.md",
-    "tags.temp.tmp",
     "Rules/Rules.md",
     "Rules",
     "tags",
