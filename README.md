@@ -1,10 +1,10 @@
-This is my root planning and organization system for my _life_ tasks. The context of this readme is only relevant to life as I must keep work and life separate due to national security.
+This is my root planning and organization system for my _life_ tasks. The context of this readme is only relevant to life / personal projects etc as I don't mix work and life notes
 
-## North Star:
-A sentence or two so that you don't have to remember all the notes in a system. A TLDR of sorts, but specific to you. Still trying to figure out a way to organize this into my notes. For now, I'll just write North Star: throughout my docs
+## What's a North Star:
+A sentence or two so that you don't have to remember all the notes in a system. A TLDR of sorts, but specific to you.
 
 ## Change Contract
-North Star: Any time I change the nature of my system, update this file.
+**North Star:** Any time I change the nature of my system, update this file.
 
 ## Log's Concept
 Logs are a way to spitball my sessions/life. They are meant to be _highly unorganized thoughts and bullet points_ as a way to track what I did in a day. Things to put in logs:
@@ -14,7 +14,7 @@ Generally, these notes aren't meant to change, but (unless the system changes) i
 
 Find yourself repeating stuff in your logs that would help pulling into a change in your system? Pull it out? But not everything that repeats throughout logs needs to be pulled out - I want this system to be describable and not grow to point where it's unmanageable.
 
-North Star:
+**North Star:**
 Good: Put _whatever you want in these logs_
 Better: Write detailed descriptions in logs - keep track of day to day life and detail structured notes
 Best: Time stamp each task I did - classify what categories each log fits under (In terms of this readme)
