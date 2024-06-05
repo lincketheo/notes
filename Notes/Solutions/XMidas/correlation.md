@@ -1,0 +1,3 @@
+```
+fastcorl <long>,<short>,<out>
+```
