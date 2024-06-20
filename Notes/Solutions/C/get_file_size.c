@@ -9,7 +9,10 @@ long int get_file_size_in_bytes(char *file_name)
         return -1; 
     } 
   
-    fseek(fp, 0L, SEEK_END); 
+    if(fseek(fp, 0L, SEEK_END)){
+        printf("Failed to fseek\n");
+        return -1;
+    }
   
     long int res = ftell(fp); 
 
