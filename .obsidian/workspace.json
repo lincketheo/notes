@@ -13,13 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organization/GTD/In.md",
+                "file": "Notes/Chat GPT is an Empiricist - Towards a Rationalist AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "302fee543574ecdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code Momentum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0630ce6e62676796",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BPD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23bfa67c2c00a6c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Docsim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a38918558ed43d1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
+            "id": "51b946be80d1c13d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Copy and Paste Code.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organization/GTD/In.md",
+                "file": "Copy and Paste Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organization/GTD/In.md",
+                "file": "Copy and Paste Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organization/GTD/In.md"
+                "file": "Copy and Paste Code.md"
               }
             }
           },
@@ -157,8 +216,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad50cc6ecf2052c3",
+  "active": "51b946be80d1c13d",
   "lastOpenFiles": [
+    "Copy and Paste Code.md",
+    "Notes/Similarity thing.md",
+    "Notes/Docsim.md",
+    "Code Momentum.md",
+    "BPD.md",
+    "Notes/Chat GPT is an Empiricist - Towards a Rationalist AI.md",
+    "Notes/Thoughts.md",
+    "Notes/Night Checklist.md",
+    "Notes/You're Just Caching - A Mental Model to Reduce Complexity in Your Code.md",
+    "Notes/thoughts.md",
+    "Notes/Untitled",
+    "Notes/Topics/concepts/Computer Science/Tail Recursive.md",
+    "Notes/Topics/frameworks/nginx/Admin Guide.md",
+    "Notes/Topics/concepts/Computer Science",
+    "Organization/GTD/In.md",
+    "Notes/Topics/frameworks/nginx",
     "tags.temp.tmp",
     "tags.temp",
     "tags.lock",
@@ -173,7 +248,6 @@
     "Notes/Topics/frameworks/docker/assets/docker-architecture.webp",
     "Notes/Topics/frameworks/docker/assets",
     "Notes/Topics/frameworks/docker/Overview.md",
-    "Notes/Topics/frameworks/docker",
     "Notes/Topics/frameworks/K8s/Concepts/assets/Container_Evolution.svg",
     "Notes/Topics/frameworks/K8s/Concepts/Overview/Overview.md",
     "Notes/Topics/frameworks/K8s/vocab/Service.md",
@@ -183,24 +257,10 @@
     "Notes/Topics/frameworks/K8s/assets/module_03_pods.svg",
     "Notes/Topics/frameworks/K8s/assets/module_03_nodes.svg",
     "Notes/Topics/frameworks/K8s/assets/module_01_cluster.svg",
-    "Notes/Topics/frameworks/K8s/Concepts/assets",
-    "Notes/Topics/frameworks/K8s/Concepts/Overview",
     "Notes/Topics/frameworks/K8s/Multiple Instances.md",
     "Notes/Solutions/docker/Tag.md",
-    "Notes/Solutions/docker/Push.md",
-    "Notes/Solutions/docker/Logs.md",
-    "Notes/Solutions/Bash/commands/Check Listening Ports.md",
-    "Notes/ASIC.md",
-    "Notes/Topics/System Design/LinkedinPost.md",
-    "Notes/Topics/K8s/vocab/Service.md",
-    "Notes/Topics/K8s/vocab/Pods.md",
-    "Notes/Topics/K8s/vocab/Nodes.md",
     "Notes/Topics/K8s/assets/module_03_pods.svg",
     "Notes/Topics/K8s/assets/module_03_nodes.svg",
-    "Notes/Topics/K8s/Multiple Instances.md",
-    "Notes/Solutions/K8s/Commands.md",
-    "Notes/Topics/Mental Health/Healthy Gamer/Clingy-ness.md",
-    "Notes/Topics/Mental Health/Relationships.md",
     "Notes/Topics/concepts/Refactoring/assets/ide_tools.png",
     "Notes/Topics/concepts/Service Oriented Architecture/Kubernetes/Concepts/assets/Container_Evolution.svg",
     "Notes/Topics/frameworks/Linux/symbolic_links.jpg",
