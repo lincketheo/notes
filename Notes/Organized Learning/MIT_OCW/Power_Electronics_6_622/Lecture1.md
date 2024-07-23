@@ -1,0 +1,51 @@
+# Power Electronics
+- Processing and control of electrical energy
+- Example - Iphone5 Motherboard
+    - WIFI 3.3 V
+    - Flash 3.0 V
+    - RF Modules 2.5-5.5 V
+    - MEMS sensors 2.4 - 3.6 V
+    - CPU, Display, Camera etc
+- Industries:
+    - Portable electronics (phone, ipad etc)
+    - Computers / Telecommunications (Servers, Desktops etc)
+    - Communications / RF (RF Amplifier etc)
+    - Commercial Applications (Florescent lighting, LED Driver, etc)
+    - Appliances (Air conditioner, Dishwasher)
+    - Medical Applications 
+    - Scientific Applications
+    - Transportation (Inverters and motors) (Trains, future trains)
+    - Powergeneration and transmission
+    - HF / VHF Power
+    - Industrial (DC Arc Furnace)
+- Needs / Goals:
+    - Miniaturization
+    - Higher Efficiency
+    - Higher Performance
+        - Bandwidth / operating range
+    - New Applications
+- Example:
+    - 9-16 V Input needs 5.5 V output
+        - Solution 1:
+            - Use a variable resistor / voltage divider:
+                - + -> resistor -> vout -> resistor -> -
+            - Highly inefficient (dissipates electrical power)
+            - Power in = Vin * Iin
+            - Power out = Vout * Iout
+            - I stays the same, power out < power in
+        - Solution 2:
+            - PWM - pulse width modulation:
+            - Control average voltage by fraction switch is on / off
+            - Add a lowpass filter at the end to get the average (inductor and optionally capacitor - LC)
+            - Efficiency can ideally be 100% (LC - Inductors and Capacitors are energy storage devices)
+                - Doesn't loose power - you "store energy and release it when you want - don't just throw it away)
+
+
+## Notes:
+- Low Pass Filter:
+    - High frequencies go away (gain is higher for low frequencies) - theoretically a square
+- High Pass Filter:
+    - Low frequencies go away
+- LC filter:
+- Read more: https://industrial.panasonic.com/ww/ss/technical/b4
+    
