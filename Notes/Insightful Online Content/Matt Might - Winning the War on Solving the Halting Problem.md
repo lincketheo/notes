@@ -1,0 +1,19 @@
+- Further content:
+	- What is static analysis (Matt Might)
+	- Abstracting Abstract Machines
+		- JFP 2012 version
+	- Dalvik virtual machine (Android)
+	- CESK machine
+		- Control
+		- Environment
+		- Store
+		- Kontinuation
+		- Example (Functional Language):
+			- C = Expression
+			- E = Var -> Address
+			- S = Addr -> Val
+			- K = Stackframe
+- Interpreter -> Process -> aproximator
+	- Take a program, push you into some state space
+	- Step function
+- Closure = Lambda x Environment

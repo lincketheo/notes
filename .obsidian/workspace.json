@@ -11,48 +11,32 @@
             "id": "d2498a6b41003989",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Chat GPT is an Empiricist - Towards a Rationalist AI.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "302fee543574ecdb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code Momentum.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "0630ce6e62676796",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BPD.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "23bfa67c2c00a6c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Docsim.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -71,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Copy and Paste Code.md",
+                "file": "Notes/Insightful Online Content/Matt Might - Winning the War on Solving the Halting Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Copy and Paste Code.md",
+                "file": "Notes/Insightful Online Content/Matt Might - Winning the War on Solving the Halting Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Copy and Paste Code.md",
+                "file": "Notes/Insightful Online Content/Matt Might - Winning the War on Solving the Halting Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Copy and Paste Code.md"
+                "file": "Notes/Insightful Online Content/Matt Might - Winning the War on Solving the Halting Problem.md"
               }
             }
           },
@@ -218,6 +202,7 @@
   },
   "active": "51b946be80d1c13d",
   "lastOpenFiles": [
+    "Notes/Insightful Online Content/Matt Might - Winning the War on Solving the Halting Problem.md",
     "Copy and Paste Code.md",
     "Notes/Similarity thing.md",
     "Notes/Docsim.md",
@@ -258,7 +243,6 @@
     "Notes/Topics/frameworks/K8s/assets/module_03_nodes.svg",
     "Notes/Topics/frameworks/K8s/assets/module_01_cluster.svg",
     "Notes/Topics/frameworks/K8s/Multiple Instances.md",
-    "Notes/Solutions/docker/Tag.md",
     "Notes/Topics/K8s/assets/module_03_pods.svg",
     "Notes/Topics/K8s/assets/module_03_nodes.svg",
     "Notes/Topics/concepts/Refactoring/assets/ide_tools.png",
