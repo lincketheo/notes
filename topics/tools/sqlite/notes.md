@@ -1,0 +1,14 @@
+# ACID:
+- Guarantee data validity despite errors, power failures / other mishaps
+- Transaction:
+    - A series of operations that satisfy ACID properties
+- Atomicity:
+    - Each transaction is treated as a single unit
+        - either succeeds or fails completely
+- Consistency:
+    - A transaction can only bring the database from one consistent state to another
+    - Preserve database invariants:
+- Isolation:
+    - Concurrent execution of transactions leaves the db in the same state than if sequentially
+- Durability:
+    - Once a transaction has been committed, it will remain committed even if system failure
