@@ -1,0 +1,2 @@
+- How to keep notes organized 
+- How to keep a goal at the forefront of your mind and not forget about it
