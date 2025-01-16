@@ -1,0 +1,8 @@
+1970-01-01 00:00:00 INFO This is info
+1970-01-01 00:00:00 EMERGENCY This is info
+1970-01-01 00:00:00 DEBUG This is info
+1970-01-01 00:00:00 CRITICAL This is info
+1970-01-01 00:00:00 CRITICAL This is info
+1970-01-01 00:00:00 INFO This is info
+1970-01-01 00:00:00 INFO This is info
+1970-01-01 00:00:00 INFO This is info
