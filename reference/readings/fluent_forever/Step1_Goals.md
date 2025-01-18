@@ -21,8 +21,7 @@
 
 -   **Specific:** Dedicate 1 hour daily to Step 1 tasks:
     -   30 minutes on Anki setup.
-    -   15 minutes on pronunciation practice.
-    -   15 minutes on shadowing exercises.
+    -   30 minutes on pronunciation practice.
 -   **Measurable:** Log daily progress
 -   **Achievable:** Adjust other commitments to create a consistent learning routine.
 -   **Relevant:** Daily repetition is critical for building language skills.
