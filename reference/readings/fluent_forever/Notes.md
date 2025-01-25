@@ -112,16 +112,9 @@ Do this now
 
 # Chapter 4 - Word Play and the Symphony of a word
 
-1. Start with high frequency vocabulary
-2. Use images instead of translations
-3. Create Personal Connections
-4. Implement Spaced Repetition
-5. Gender and Grammer cues
+## Learning the first 625
+- Two weeks or so of only the top 100
 
-## Practical steps
-
-1. Google images
-2. Avoid direct translations
 
 # Chapter 5 - Sentence Play
 
