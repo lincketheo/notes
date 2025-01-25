@@ -5,7 +5,5 @@
 ## Effective
 - Average rate across total income
 
-## Brackets
-
-
-- Why aren't taxes continuous
+## Questions
+- Why aren't taxes continuous?

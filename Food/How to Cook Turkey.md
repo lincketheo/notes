@@ -1,7 +1,7 @@
 # Turkey Cooking
 
 ## Crispy skinned Turkey
-- Cooking long enough so that collagen (proteins) has time to conver to gelatin and drain away
+- Cooking long enough so that collagen (proteins) has time to convert to gelatin and drain away
 - Fat renders out
 - Proteins have time to dehydrate and brown
 - pH - rub skin with baking powder and salt and rest overnight
