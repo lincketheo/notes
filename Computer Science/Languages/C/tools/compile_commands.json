@@ -1,0 +1,164 @@
+[
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++ -Dcore_EXPORTS -I/home/tjl/development/phantom_fox/tools2/include -g -fPIC -march=native -g -pg -fopenmp -o CMakeFiles/core.dir/src/core/DtypeDatasource.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/core/DtypeDatasource.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/core/DtypeDatasource.cpp",
+  "output": "CMakeFiles/core.dir/src/core/DtypeDatasource.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++ -Dcore_EXPORTS -I/home/tjl/development/phantom_fox/tools2/include -g -fPIC -march=native -g -pg -fopenmp -o CMakeFiles/core.dir/src/core/data_structures.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/core/data_structures.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/core/data_structures.cpp",
+  "output": "CMakeFiles/core.dir/src/core/data_structures.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++ -Dcore_EXPORTS -I/home/tjl/development/phantom_fox/tools2/include -g -fPIC -march=native -g -pg -fopenmp -o CMakeFiles/core.dir/src/core/dtype.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/core/dtype.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/core/dtype.cpp",
+  "output": "CMakeFiles/core.dir/src/core/dtype.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++ -Dcore_EXPORTS -I/home/tjl/development/phantom_fox/tools2/include -g -fPIC -march=native -g -pg -fopenmp -o CMakeFiles/core.dir/src/core/errors.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/core/errors.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/core/errors.cpp",
+  "output": "CMakeFiles/core.dir/src/core/errors.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++ -Dcore_EXPORTS -I/home/tjl/development/phantom_fox/tools2/include -g -fPIC -march=native -g -pg -fopenmp -o CMakeFiles/core.dir/src/core/io.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/core/io.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/core/io.cpp",
+  "output": "CMakeFiles/core.dir/src/core/io.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++ -Dcore_EXPORTS -I/home/tjl/development/phantom_fox/tools2/include -g -fPIC -march=native -g -pg -fopenmp -o CMakeFiles/core.dir/src/core/logging.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/core/logging.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/core/logging.cpp",
+  "output": "CMakeFiles/core.dir/src/core/logging.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++ -Dcore_EXPORTS -I/home/tjl/development/phantom_fox/tools2/include -g -fPIC -march=native -g -pg -fopenmp -o CMakeFiles/core.dir/src/core/math.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/core/math.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/core/math.cpp",
+  "output": "CMakeFiles/core.dir/src/core/math.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++ -Dcore_EXPORTS -I/home/tjl/development/phantom_fox/tools2/include -g -fPIC -march=native -g -pg -fopenmp -o CMakeFiles/core.dir/src/core/memory.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/core/memory.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/core/memory.cpp",
+  "output": "CMakeFiles/core.dir/src/core/memory.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++ -Dcore_EXPORTS -I/home/tjl/development/phantom_fox/tools2/include -g -fPIC -march=native -g -pg -fopenmp -o CMakeFiles/core.dir/src/core/posixf.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/core/posixf.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/core/posixf.cpp",
+  "output": "CMakeFiles/core.dir/src/core/posixf.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++ -Dcore_EXPORTS -I/home/tjl/development/phantom_fox/tools2/include -g -fPIC -march=native -g -pg -fopenmp -o CMakeFiles/core.dir/src/core/shift_buf.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/core/shift_buf.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/core/shift_buf.cpp",
+  "output": "CMakeFiles/core.dir/src/core/shift_buf.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++ -Dcore_EXPORTS -I/home/tjl/development/phantom_fox/tools2/include -g -fPIC -march=native -g -pg -fopenmp -o CMakeFiles/core.dir/src/core/strings.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/core/strings.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/core/strings.cpp",
+  "output": "CMakeFiles/core.dir/src/core/strings.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++ -Dcore_EXPORTS -I/home/tjl/development/phantom_fox/tools2/include -g -fPIC -march=native -g -pg -fopenmp -o CMakeFiles/core.dir/src/core/testing.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/core/testing.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/core/testing.cpp",
+  "output": "CMakeFiles/core.dir/src/core/testing.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++ -Demprobe_EXPORTS -I/home/tjl/development/phantom_fox/tools2/include -g -fPIC -march=native -g -pg -fopenmp -o CMakeFiles/emprobe.dir/src/emprobe/bluefile.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/emprobe/bluefile.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/emprobe/bluefile.cpp",
+  "output": "CMakeFiles/emprobe.dir/src/emprobe/bluefile.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++ -Demprobe_EXPORTS -I/home/tjl/development/phantom_fox/tools2/include -g -fPIC -march=native -g -pg -fopenmp -o CMakeFiles/emprobe.dir/src/emprobe/fftcaf.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/emprobe/fftcaf.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/emprobe/fftcaf.cpp",
+  "output": "CMakeFiles/emprobe.dir/src/emprobe/fftcaf.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++ -Demprobe_EXPORTS -I/home/tjl/development/phantom_fox/tools2/include -g -fPIC -march=native -g -pg -fopenmp -o CMakeFiles/emprobe.dir/src/emprobe/fftcaf_stateful.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/emprobe/fftcaf_stateful.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/emprobe/fftcaf_stateful.cpp",
+  "output": "CMakeFiles/emprobe.dir/src/emprobe/fftcaf_stateful.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++ -Demprobe_EXPORTS -I/home/tjl/development/phantom_fox/tools2/include -g -fPIC -march=native -g -pg -fopenmp -o CMakeFiles/emprobe.dir/src/emprobe/usecases.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/emprobe/usecases.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/emprobe/usecases.cpp",
+  "output": "CMakeFiles/emprobe.dir/src/emprobe/usecases.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++  -I/home/tjl/development/phantom_fox/tools2/include -g -march=native -g -pg -fopenmp -o CMakeFiles/caf_interpret.dir/src/apps/caf_interpret.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/apps/caf_interpret.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/apps/caf_interpret.cpp",
+  "output": "CMakeFiles/caf_interpret.dir/src/apps/caf_interpret.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++  -I/home/tjl/development/phantom_fox/tools2/include -g -march=native -g -pg -fopenmp -o CMakeFiles/channel.dir/src/apps/channel.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/apps/channel.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/apps/channel.cpp",
+  "output": "CMakeFiles/channel.dir/src/apps/channel.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++  -I/home/tjl/development/phantom_fox/tools2/include -g -march=native -g -pg -fopenmp -o CMakeFiles/dtob.dir/src/apps/dtob.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/apps/dtob.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/apps/dtob.cpp",
+  "output": "CMakeFiles/dtob.dir/src/apps/dtob.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++  -I/home/tjl/development/phantom_fox/tools2/include -g -march=native -g -pg -fopenmp -o CMakeFiles/fftcaf.dir/src/apps/fftcaf.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/apps/fftcaf.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/apps/fftcaf.cpp",
+  "output": "CMakeFiles/fftcaf.dir/src/apps/fftcaf.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++  -I/home/tjl/development/phantom_fox/tools2/include -g -march=native -g -pg -fopenmp -o CMakeFiles/fftcaf_lite.dir/src/apps/fftcaf_lite.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/apps/fftcaf_lite.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/apps/fftcaf_lite.cpp",
+  "output": "CMakeFiles/fftcaf_lite.dir/src/apps/fftcaf_lite.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++  -I/home/tjl/development/phantom_fox/tools2/include -g -march=native -g -pg -fopenmp -o CMakeFiles/fout.dir/src/apps/fout.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/apps/fout.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/apps/fout.cpp",
+  "output": "CMakeFiles/fout.dir/src/apps/fout.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++  -I/home/tjl/development/phantom_fox/tools2/include -g -march=native -g -pg -fopenmp -o CMakeFiles/gen_sigs_highres.dir/src/apps/gen_sigs_highres.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/apps/gen_sigs_highres.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/apps/gen_sigs_highres.cpp",
+  "output": "CMakeFiles/gen_sigs_highres.dir/src/apps/gen_sigs_highres.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++  -I/home/tjl/development/phantom_fox/tools2/include -g -march=native -g -pg -fopenmp -o CMakeFiles/rx.dir/src/apps/rx.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/apps/rx.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/apps/rx.cpp",
+  "output": "CMakeFiles/rx.dir/src/apps/rx.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++  -I/home/tjl/development/phantom_fox/tools2/include -g -march=native -g -pg -fopenmp -o CMakeFiles/sig_pwr.dir/src/apps/sig_pwr.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/apps/sig_pwr.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/apps/sig_pwr.cpp",
+  "output": "CMakeFiles/sig_pwr.dir/src/apps/sig_pwr.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++  -I/home/tjl/development/phantom_fox/tools2/include -g -march=native -g -pg -fopenmp -o CMakeFiles/test.dir/src/apps/test.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/apps/test.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/apps/test.cpp",
+  "output": "CMakeFiles/test.dir/src/apps/test.cpp.o"
+},
+{
+  "directory": "/home/tjl/development/phantom_fox/tools2/demo",
+  "command": "/usr/bin/c++  -I/home/tjl/development/phantom_fox/tools2/include -g -march=native -g -pg -fopenmp -o CMakeFiles/tx.dir/src/apps/tx.cpp.o -c /home/tjl/development/phantom_fox/tools2/src/apps/tx.cpp",
+  "file": "/home/tjl/development/phantom_fox/tools2/src/apps/tx.cpp",
+  "output": "CMakeFiles/tx.dir/src/apps/tx.cpp.o"
+}
+]

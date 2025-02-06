@@ -1,0 +1,44 @@
+{
+  "company": "Foo Bar.",
+  "established_year": 2005,
+  "established_hour": 1.45,
+  "foo": true,
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe\t\n",
+      "projects": [
+        {
+          "id": "PRJ001",
+          "end_date": "2024-08-30"
+        },
+        {
+          "id": "PRJ002",
+          "end_date": "2024-05-31"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "projects": [
+        {
+          "id": "PRJ002"
+        },
+        {
+          "id": "PRJ003"
+        }
+      ]
+    }
+  ],
+  "departments": [
+    {
+      "name": "Engineering"
+    },
+    {
+      "name": "Design",
+      "location": "Building B, 3rd Floor"
+    }
+  ]
+}
+
