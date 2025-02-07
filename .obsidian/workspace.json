@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Common Make Targets I Like"
             }
+          },
+          {
+            "id": "1fad7bc589e02929",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +188,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78352880ef427ce4",
+  "active": "1fad7bc589e02929",
   "lastOpenFiles": [
     "tags.temp",
     "tags.lock",
