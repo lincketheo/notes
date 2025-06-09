@@ -26,3 +26,8 @@
 `:foldopen [N]`        - Open fold(s)  
 `:foldclose [N]`       - Close fold(s)  
 `:foldtoggle [N]`      - Toggle fold(s)  
+
+# Sessions 
+`:mksession <PATH>`
+`:source <PATH>`
+`nvim -S <PATH>`
