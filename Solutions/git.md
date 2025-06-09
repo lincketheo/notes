@@ -1,1 +1,5 @@
-# Adding a submodule when copied it into your directory
+# Submodules
+`git submodule add <URL> <PATH>`
+`git clonse --recurse-submodules <URL>`
+`git submodule update --init --recursive`
+`cd <PATH>`
