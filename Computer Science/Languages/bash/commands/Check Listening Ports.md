@@ -11,3 +11,12 @@
 # Using Netstat:
 - (Part of `net-tools` package)
 - `netstat -lntu`
+
+## Mac
+- Netstat is not ported to macos
+- lsof -i -P | grep LISTEN 
+- lsof - List open files
+- i: Listening files
+- P: Doesn't convert port numbers to port names for network files
+
+
