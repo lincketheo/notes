@@ -1,0 +1,95 @@
+Five Steps
+1. Capture what has our attention
+	- Tools:
+		- Physical in tray
+		- Paper based note taking devices
+		- Email
+	- Three requirements:
+		- Every open loop must be in your capture system and out of your head 
+		- You must have as few capturing buckets as you can get by with 
+		- You must empty them regularly
+2. Clarify what each item means and what to do about it 
+	- What is it?
+	- Is it actionable?
+	- Three **Non Actionable** options:
+		- Trash
+		- Incubate
+		- Reference
+	- Two **Actionable** options:
+		- What project or outcome have you committed to?
+		- What is the next action required?
+			- Three options for actionable items:
+				- Do it
+				- Delegate it
+				- Defer it
+			- If < 2 minutes, do it
+			- Else, am I the right person to do this? No? Delegate it
+			- Longer than 2 minutes - defer and put on next actions
+3. Organize the results
+	- Non Actionable items
+		- Trash
+		- Incubation
+		- Reference
+	- Actionable Items
+		- Projects list
+		- Storage / files for project plans and support materials
+		- Calendar
+		- Next actions list of reminders
+		- List of reminders of things you are waiting for
+	- **Project** Any desired result that can be accomplished in a year that requires more than one action step
+		- Everything should be reviewed weekly
+	- Calendar
+		- Reminders fall in two categories:
+			- Things that have to happen on a specific day / time
+			- Things that need to get done asap
+			- Three things in your calendar
+		- Three things to go on calendar:
+			- Time specific actions
+			- Day specific actions
+			- Day specific information
+	- Next Actions List
+		- Subdivide into Categories:
+			- Calls to make,
+			- Computer action items
+			- Store purchases
+	- Non actionable items
+		- Incubation
+			- Someday maybe
+			- Tickler system
+				- Things you don't need to be reminded of until a designated time in the future
+		- Reference Material
+			- Topic / area-specific storage
+			- General reference files
+4. Reflect 
+	- What to review and when
+		- Calendar (daily)
+		- Next actions list 
+		- Projects
+	- Weekly review
+		- Gather and process your stuff
+		- review your system 
+		- update your lists
+		- get clean clear current and complete
+5. Engage with
+	- Apply these Four criteria (in order)
+		- Context
+		- Time available
+		- Energy available
+		- Priority
+	- Threefold model for identifying daily work
+		- Doing predefined work
+		- Doing work as it shows up
+		- Defining your work
+	- Priorities
+		- Horizon 5: Purpose and principles
+			- Big picture view. Why does your company exit? Why do you exist? What matters to you no matter what?
+		- Horizon 4: Vision
+			- Projecting 3-5 years into the future
+		- Horizon 3: Goals
+			- What do you want to be experiencing in various areas of your life and work 1-2 years from now?
+		- Horizon 2: Areas of focus and accountabilities
+			- Areas of your life and work within which you want to achieve results / standards (ex health, fincances, spirituality - list these)
+		- Horizon 1: Current projects
+			- Short term outcomes you want to achieve
+		- Ground: Current actions
+			- List of all actions you need to take

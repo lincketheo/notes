@@ -1,0 +1,10 @@
+*.o
+.clang
+.cache
+compile_commands.json
+tags
+*.db
+*.bin
+*node_modules*
+*dist*
+history.txt

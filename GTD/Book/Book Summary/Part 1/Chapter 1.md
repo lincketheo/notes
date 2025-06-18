@@ -1,0 +1,35 @@
+- Mind like water
+    - Flow state - when you don't have anything else to think about 
+    - Rowing - don't try too hard
+    - Throwing a pebble into a still pond 
+        - Pond responds totally appropriately to the stimulus, not over or under reacting
+        - Water is what it is
+	- Could you get back to "Mind like water"?
+- Dealing with stress from internal commitments
+    - Open loops
+        - Anything pulling at your attention when it doesn't need to
+        - Solve
+            - Identify what they mean to you
+            - Clarify what they mean
+            - Decide when / how to move them
+        - Managing commitments 
+            1. If it's on your mind - your mind isn't clear 
+                - Capturing things in a collection tool that you'll sort through
+            2. Clarify what the action is and what actions need to be taken 
+            3. Reminders in a system that you review regularly
+        - Exercise
+            - Write down the big task that consumes your mind 
+                - How am I going to manage these next two weeks to prepare for a good entry at Palantir
+            - Write down how you know this task will be complete
+                - I feel confident that I don't have a plan and I have daily goals week by week and day by day 
+                - I start at Palantir
+            - Write down the next visible action I could take to complete this task
+                - Write up a document with all my goals I want to accomplish before Palantir and organized
+- Action management
+    - Horizontal
+        - Maintains coherence across all activities in which you're involved.
+    - Vertical
+        - Individual projects
+        - Gets you clear about specifics needed 
+- Getting it all out of your head
+    - Only capture thoughts that create open loops in your head
